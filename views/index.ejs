@@ -615,7 +615,7 @@
                 <!-- Responsive Video Embed -->
                 <div class="ratio ratio-16x9 rounded shadow mb-4">
                     <iframe 
-                    src="https://player.vimeo.com/video/1087649250?h=03c4a31456&amp;title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" 
+                    src="https://player.vimeo.com/video/1087730402?h=6071e5c8e7" 
                     title="Authentication Tutorial"
                     allowfullscreen
                     loading="lazy">
@@ -638,8 +638,20 @@
     </main>
 
     <footer class="auth-footer">
-        <p>GitHub | Panopto video | Acknowledgement | Contact: s225289949@deakin.edu.au</p>
+        <div class="container text-center">
+            <p class="mb-1">
+            <a href="https://github.com/datnq2001/Task-10.4HD.git" target="_blank" class="text-decoration-none me-3">
+                <i class="bi bi-github"></i> GitHub
+            </a>
+            <a href="https://deakin.au.panopto.com/Panopto/Pages/Viewer.aspx?id=e2374d58-91d6-42b4-ac92-b2e900da6020" target="_blank" class="text-decoration-none me-3">
+                <i class="bi bi-play-circle"></i> Panopto Video
+            </a>
+            <span class="me-3">| Contact: <a href="mailto:s225289949@deakin.edu.au">s225289949@deakin.edu.au</a></span>
+            </p>
+            <p class="text-muted small mb-0">&copy; 2025 Quang Dat Nguyen. All rights reserved.</p>
+        </div>
     </footer>
+      
 
     <!-- Alert Box -->
     <div id="alertBox" class="alert alert-dismissible fade show position-fixed" style="top: 20px; right: -400px; min-width: 300px; z-index: 9999; transition: right 0.6s ease-in-out;">
@@ -790,6 +802,7 @@
         });
     </script>
 
+    <!-- Copy Code Function -->
     <script>
         function copyCode(button) {
             const code = button.nextElementSibling.innerText;
