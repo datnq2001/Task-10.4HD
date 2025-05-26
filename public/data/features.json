@@ -1,0 +1,24 @@
+[
+    {
+      "title": "Robust and safe password management",
+      "subtitle": "Secure Passwords",
+      "badge": "Security",
+      "image": "https://plus.unsplash.com/premium_photo-1683140640468-9e428f4257b8?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDV8fHNlY3VyaXR5fGVufDB8fDB8fHww",
+      "alt": "Security"
+    },
+    {
+      "title": "Authenticate users via secure tokens",
+      "subtitle": "Token Auth",
+      "badge": "Authentication",
+      "image": "https://www.cpomagazine.com/wp-content/uploads/2022/12/the-authentication-journey_1500.jpg",
+      "alt": "Token Auth"
+    },
+    {
+      "title": "Instant alerts for suspicious activity",
+      "subtitle": "Real-time Protection",
+      "badge": "Protection",
+      "image": "https://plus.unsplash.com/premium_photo-1733317302666-82fb00a68109?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8YWxlcnR8ZW58MHx8MHx8fDA%3D",
+      "alt": "Realtime Protection"
+    }
+  ]
+  
